@@ -51,7 +51,7 @@ repositories {
 dependencies {
     compileOnly 'com.google.android.wearable:wearable:2.3.0'
 
-    implementation 'com.google.android.gms:play-services-cast-framework:15.0.0'
+    implementation 'com.google.android.gms:play-services-cast-framework:15.0.1'
     implementation 'com.google.android.support:wearable:2.3.0'
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation 'com.android.support:cardview-v7:27.1.1'
